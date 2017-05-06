@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Http\\HttplugBundle\\HttplugBundle": ["all"]
+        "Liip\\ImagineBundle\\LiipImagineBundle": ["all"]
     },
     "copy-from-recipe": {
         "etc/": "%ETC_DIR%/"
