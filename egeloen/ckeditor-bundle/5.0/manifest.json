@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Enqueue\\Bundle\\EnqueueBundle": ["all"]
+        "Ivory\\CKEditorBundle\\IvoryCKEditorBundle": ["all"]
     },
     "copy-from-recipe": {
         "etc/": "%ETC_DIR%/"
