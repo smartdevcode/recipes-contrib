@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "FOS\\JsRoutingBundle\\FOSJsRoutingBundle": ["all"]
+        "Misd\\PhoneNumberBundle\\MisdPhoneNumberBundle": ["all"]
     },
     "copy-from-recipe": {
         "etc/": "%ETC_DIR%/"
