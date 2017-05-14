@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Ivory\\CKEditorBundle\\IvoryCKEditorBundle": ["all"]
+        "Vich\\UploaderBundle\\VichUploaderBundle": ["all"]
     },
     "copy-from-recipe": {
         "etc/": "%ETC_DIR%/"
