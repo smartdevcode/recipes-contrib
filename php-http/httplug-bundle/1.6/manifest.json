@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "WMC\\DoctrineNamingStrategyBundle\\WMCDoctrineNamingStrategyBundle": ["all"]
+        "Http\\HttplugBundle\\HttplugBundle": ["all"]
     },
     "copy-from-recipe": {
         "etc/": "%ETC_DIR%/"
