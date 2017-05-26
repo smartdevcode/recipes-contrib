@@ -1,8 +1,0 @@
-{
-    "bundles": {
-        "FOS\\JsRoutingBundle\\FOSJsRoutingBundle": ["all"]
-    },
-    "copy-from-recipe": {
-        "etc/": "%ETC_DIR%/"
-    }
-}
