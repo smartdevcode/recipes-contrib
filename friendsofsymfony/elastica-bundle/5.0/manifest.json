@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Nelmio\\ApiDocBundle\\NelmioApiDocBundle": ["all"]
+        "FOS\\ElasticaBundle\\FOSElasticaBundle": ["all"]
     },
     "copy-from-recipe": {
         "etc/": "%ETC_DIR%/"
