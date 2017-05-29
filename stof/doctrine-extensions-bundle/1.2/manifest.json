@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "FOS\\RestBundle\\FOSRestBundle": ["all"]
+        "Stof\\DoctrineExtensionsBundle\\StofDoctrineExtensionsBundle": ["all"]
     },
     "copy-from-recipe": {
         "etc/": "%ETC_DIR%/"
