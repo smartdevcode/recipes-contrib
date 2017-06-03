@@ -1,9 +1,0 @@
-{
-    "bundles": {
-        "Hautelook\\AliceBundle\\HautelookAliceBundle": ["dev", "test"]
-    },
-    "copy-from-recipe": {
-        "etc/": "%ETC_DIR%/",
-        "src/": "%SRC_DIR%/"
-    }
-}
