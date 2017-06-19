@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "FOS\\ElasticaBundle\\FOSElasticaBundle": ["all"]
+        "FOS\\RestBundle\\FOSRestBundle": ["all"]
     },
     "copy-from-recipe": {
         "etc/": "%ETC_DIR%/"
