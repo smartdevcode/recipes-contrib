@@ -1,8 +1,0 @@
-{
-    "bundles": {
-        "Exercise\\HTMLPurifierBundle\\ExerciseHTMLPurifierBundle": ["all"]
-    },
-    "copy-from-recipe": {
-        "etc/": "%ETC_DIR%/"
-    }
-}

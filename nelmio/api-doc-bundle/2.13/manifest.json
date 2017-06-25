@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Vich\\UploaderBundle\\VichUploaderBundle": ["all"]
+        "Nelmio\\ApiDocBundle\\NelmioApiDocBundle": ["all"]
     },
     "copy-from-recipe": {
         "etc/": "%ETC_DIR%/"
