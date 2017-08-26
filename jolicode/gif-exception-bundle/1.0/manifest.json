@@ -1,5 +1,0 @@
-{
-    "bundles": {
-        "Joli\\GifExceptionBundle\\GifExceptionBundle": ["dev", "test"]
-    }
-}
