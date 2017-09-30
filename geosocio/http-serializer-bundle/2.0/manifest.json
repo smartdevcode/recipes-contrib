@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Leogout\\Bundle\\SeoBundle\\LeogoutSeoBundle": ["all"]
+        "GeoSocio\\HttpSerializerBundle\\GeoSocioHttpSerializerBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
