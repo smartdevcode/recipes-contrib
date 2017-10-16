@@ -1,5 +1,0 @@
-{
-    "bundles": {
-        "Elephantly\\KahlanBundle\\KahlanBundle": ["dev", "test"]
-    }
-}
