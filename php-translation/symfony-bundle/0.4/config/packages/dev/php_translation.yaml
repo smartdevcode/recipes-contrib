@@ -1,3 +1,0 @@
-translation:
-    symfony_profiler: # must be placed in config_dev.yml
-        enabled: true
