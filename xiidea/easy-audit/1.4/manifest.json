@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "JMS\\SerializerBundle\\JMSSerializerBundle": ["all"]
+        "Xiidea\\EasyAuditBundle\\XiideaEasyAuditBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
