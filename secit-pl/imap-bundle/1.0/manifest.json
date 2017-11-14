@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Bazinga\\Bundle\\GeocoderBundle\\BazingaGeocoderBundle": ["all"]
+        "SecIT\\ImapBundle\\ImapBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"

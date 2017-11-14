@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Bazinga\\Bundle\\GeocoderBundle\\BazingaGeocoderBundle": ["all"]
+        "GeoSocio\\HttpSerializerBundle\\GeoSocioHttpSerializerBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"

@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Bazinga\\Bundle\\GeocoderBundle\\BazingaGeocoderBundle": ["all"]
+        "Overblog\\GraphQLBundle\\OverblogGraphQLBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"

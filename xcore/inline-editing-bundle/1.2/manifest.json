@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Bazinga\\Bundle\\GeocoderBundle\\BazingaGeocoderBundle": ["all"]
+        "XcoreCMS\\InlineEditingBundle\\XcoreCMSInlineEditingBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"

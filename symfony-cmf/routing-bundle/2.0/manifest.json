@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Bazinga\\Bundle\\GeocoderBundle\\BazingaGeocoderBundle": ["all"]
+        "Symfony\\Cmf\\Bundle\\RoutingBundle\\CmfRoutingBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
