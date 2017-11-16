@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Nelmio\\SecurityBundle\\NelmioSecurityBundle": ["all"]
+        "EightPoints\\Bundle\\GuzzleBundle\\EightPointsGuzzleBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
