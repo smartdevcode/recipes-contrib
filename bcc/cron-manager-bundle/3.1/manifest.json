@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Sg\\DatatablesBundle\\SgDatatablesBundle": ["all"]
+        "BCC\\CronManagerBundle\\BCCCronManagerBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
