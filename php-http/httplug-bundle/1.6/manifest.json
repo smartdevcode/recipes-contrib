@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "EightPoints\\Bundle\\GuzzleBundle\\EightPointsGuzzleBundle": ["all"]
+        "Http\\HttplugBundle\\HttplugBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
