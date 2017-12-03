@@ -1,5 +1,0 @@
-{
-    "copy-from-recipe": {
-        "public/.htaccess": "%PUBLIC_DIR%/.htaccess"
-    }
-}

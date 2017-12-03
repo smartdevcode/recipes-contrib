@@ -1,8 +1,0 @@
-{
-    "bundles": {
-        "Fresh\\DoctrineEnumBundle\\FreshDoctrineEnumBundle": ["all"]
-    },
-    "copy-from-recipe": {
-        "src/": "%SRC_DIR%/"
-    }
-}
