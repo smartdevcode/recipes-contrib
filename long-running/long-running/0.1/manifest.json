@@ -1,5 +1,0 @@
-{
-    "bundles": {
-        "LongRunning\\Bundle\\LongRunningBundle\\LongRunningBundle": ["all"]
-    }
-}
