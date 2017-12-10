@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Dtc\\GridBundle\\DtcGridBundle": ["all"]
+        "Dtc\\QueueBundle\\DtcQueueBundle": ["all"]
     },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
