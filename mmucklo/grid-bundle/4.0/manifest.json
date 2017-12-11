@@ -1,8 +1,0 @@
-{
-    "bundles": {
-        "Dtc\\GridBundle\\DtcGridBundle": ["all"]
-    },
-    "copy-from-recipe": {
-        "config/": "%CONFIG_DIR%/"
-    }
-}
